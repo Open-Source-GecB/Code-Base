@@ -5,7 +5,7 @@
 // Prerequisites : Arrays.
 // Problem statement : 
 // You have an array consisting of N integers a1,a2...aN. You may perform the following 
-//operation zero or more times.
+//operation zero or more times..
 
 // Choose any index i (1≤i≤N) and set ai:=ai+1
 // Determine the minimum number of operations you have to perform so that all pairwise 
