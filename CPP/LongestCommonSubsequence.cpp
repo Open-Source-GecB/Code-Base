@@ -1,3 +1,23 @@
+/*
+Longest Common Subsequence | CPP | GeeksForGeeks | C++ | https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1 | By- Ajinkya Deshpande
+
+Given two sequences, find the length of longest subsequence present in both of them. Both the strings are of uppercase.
+
+Example 1:
+
+Input:
+A = 6, B = 6
+str1 = ABCDGH
+str2 = AEDFHR
+
+Output: 3
+
+Explanation: LCS for input Sequences
+“ABCDGH” and “AEDFHR” is “ADH” of
+length 3.
+
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
