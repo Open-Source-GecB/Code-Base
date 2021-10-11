@@ -38,4 +38,5 @@
 | ----------- | ----------- | ----------- | ----------- | -----------   |
 | Longest Common Subsequence | CPP| GeeksForGeeks | C++ | https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1 |
 | Palindromic patitioning | CPP | GeeksForGeeks | C++ | https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1 |
+| Matrix Chain Multiplication | CPP | GeeksForGeeks | C++ | https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1 |
 |             |             |             |             |               |
