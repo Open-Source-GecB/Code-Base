@@ -25,7 +25,7 @@
 1. Variable name should be meaningful.
 2. Use comments in your code.
 3. Your Code must be pretty formated.
-4. At the top of your code please details </strong>in this format (Commented) <br>
+4. At the top of your code please add the details </strong>in this format (Commented) <br>
    <code> Program_name | Sub-folder | Platform | Language | Problem Link | By- Your Name </code> <br>
   **For Example:** <br>
   <code> Say <strong>"Hello, World!" With C++ | CPP | HackerRank | C++ | https://www.hackerrank.com/challenges/cpp-hello-world/problem | By- Arwaz Khan </code> <br>
@@ -37,5 +37,6 @@
 | Program     | Sub-Folder  | Platform    | Language    | Problem Link  |
 | ----------- | ----------- | ----------- | ----------- | -----------   |
 | Longest Common Subsequence | CPP| GeeksForGeeks | C++ | https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1 |
+| Middle Element of Linked List| CPP | GeeksForGeeks | C++ | https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1/ |
 | Palindromic patitioning | CPP | GeeksForGeeks | C++ | https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1 |
 |             |             |             |             |               |
